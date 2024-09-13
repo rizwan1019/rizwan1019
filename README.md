@@ -1,4 +1,4 @@
-Hi there, I'm Rizwan Ahmad.....
+###Hi there, I'm Rizwan Ahmad.....👋
 
 
 I am a skilled data analyst proficient in Excel, Power BI, Python, and SQL. 
